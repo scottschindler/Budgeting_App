@@ -1,0 +1,12 @@
+
+.top {
+
+    display: flex;
+    flex-direction: row;
+    border: solid 2px red;
+
+}
+
+form {
+    padding-left: 20px;
+}
