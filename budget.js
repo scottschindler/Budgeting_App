@@ -1,5 +1,5 @@
-var button = document.querySelector("button");
+let button = document.getElementById("submitBtn")
 
 button.addEventListener("click",function(){
-alert("button was clicked!");
+	alert("button was clicked!");
 })
